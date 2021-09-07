@@ -1,0 +1,6 @@
+C:\Users\djsum\source\repos\ElevenNote.WebAPI\ElevenNote.Models\bin\Debug\ElevenNote.Models.dll
+C:\Users\djsum\source\repos\ElevenNote.WebAPI\ElevenNote.Models\bin\Debug\ElevenNote.Models.pdb
+C:\Users\djsum\source\repos\ElevenNote.WebAPI\ElevenNote.Models\obj\Debug\ElevenNote.Models.csproj.AssemblyReference.cache
+C:\Users\djsum\source\repos\ElevenNote.WebAPI\ElevenNote.Models\obj\Debug\ElevenNote.Models.csproj.CoreCompileInputs.cache
+C:\Users\djsum\source\repos\ElevenNote.WebAPI\ElevenNote.Models\obj\Debug\ElevenNote.Models.dll
+C:\Users\djsum\source\repos\ElevenNote.WebAPI\ElevenNote.Models\obj\Debug\ElevenNote.Models.pdb
